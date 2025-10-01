@@ -1,16 +1,16 @@
 # 🎯 Weather App
 
-**Production-Ready Application - Weather App**
+**Mobile Development Project - Weather App**
 
 ---
 
 ## 📊 **PROJECT METADATA**
 
-| **Category** | production |
+| **Category** | mobile |
 |--------------|------------------|
 | **Languages** | java/kotlin |
 | **Technologies** | android/api |
-| **Frameworks** | none |
+| **Frameworks** | android-sdk |
 | **Status** | production |
 | **Year** | 2023 |
 | **Featured** | false |
